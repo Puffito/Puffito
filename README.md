@@ -12,9 +12,9 @@
 
 ---
 
-📚 **Certifications in progress**
+📚 **Certifications**
 
-- CCSP – ISC2  
+- eJPT
 - CompTIA Security+  
 - SEC504 – Hacker Tools, Techniques, and Incident Handling  
 
